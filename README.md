@@ -34,3 +34,4 @@ Open an issue or DM Wilfred on [Twitter/X](https://twitter.com/WilfredAlmeida_) 
 | Saves all the addresses of holders of an NFT collection to in a CSV file | `scripts/nft/pullAllNftHolders.ts` |
 | Saves all the addresses that hold multiple NFTs of a collection to in a CSV file | `scripts/nft/pullAllMultipleNftHolders.ts` |
 | Saves all the holders of a token to in a CSV file | `scripts/nft/pullAllTokenHolders.ts` |
+| Saves all compressed nfts from a wallet address in a CSV file | `scripts/nft/pullAllCompressedNfts.ts` |
